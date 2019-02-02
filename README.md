@@ -40,6 +40,7 @@ Features:
     
  # How to install:
  
+  - Enable mod re-write for XAMPP ( You can find a tutorial here https://www.phpflow.com/php/how-to-enable-mod_rewrite-module-in-apache/)
   - In the classes/Database.php file, change the database variables
   - Create a table called "users" with "name" and "age" column
   
