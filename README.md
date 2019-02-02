@@ -34,7 +34,7 @@ Features:
     About::seed();
     });
     
-    <br>
+  <br>
     
  # How to install:
  
