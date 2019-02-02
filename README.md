@@ -1,5 +1,7 @@
 # A custom MVC, Laravel-Like Framework written in PHP
 
+I'm a fan of Laravel so I tried creating something like it, albeit it's <i> quite </i> small.
+
 Features:
   - Routing
   - Model Collections like Laravel
